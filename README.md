@@ -3,8 +3,6 @@
 </p>
 <br>
 
-# Hello there 👋
-
 I'm **Abhishek Yadav**, a Computer Engineering graduate passionate about **Artificial Intelligence, Machine Learning, Generative AI, RAG Systems, and MLOps**.
 
 🚀 Building AI-powered applications with LLMs, FastAPI, LangChain, and Cloud Technologies.
