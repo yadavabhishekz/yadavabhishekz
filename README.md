@@ -1,7 +1,6 @@
-<p align="left">
-  <img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="coding gif" />
+<p align="center">
+  <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" />
 </p>
-
 <br>
 
 # Hello there 👋
@@ -81,25 +80,6 @@ I'm **Abhishek Yadav**, a Computer Engineering graduate passionate about **Artif
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎯 STRIDE-GPT
-AI-powered threat modeling tool built during my internship to automate STRIDE analysis, DREAD scoring, and security recommendations.
-
-### 🤖 Medical Chatbot
-RAG-based medical assistant using LangChain, FAISS, Hugging Face Embeddings, and LLMs.
-
-### ☕ Coffee Shop Customer Service Chatbot
-AI customer support chatbot powered by RAG, Pinecone, Firebase, and Llama 3.1.
-
-### 📈 IPL Win Probability Predictor
-Machine Learning application that predicts match-winning probabilities in real-time.
-
-### ₿ Cryptocurrency Price Prediction
-Deep Learning project using LSTM networks for cryptocurrency forecasting.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -119,8 +99,7 @@ Deep Learning project using LSTM networks for cryptocurrency forecasting.
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/abhishekyadav06
-- GitHub: https://github.com/yadavabhishekz
-- Email: your-email@example.com
+- Email: yadavabhishekz@outlook.com
 
 ---
 
