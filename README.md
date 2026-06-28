@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hello+👋;नमस्ते+🙏;Bonjour+🇫🇷;こんにちは+🇯🇵;I'm+Abhishek+Yadav;AI+Engineer+🤖" />
 </p>
 <br>
 
